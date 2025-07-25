@@ -1,9 +1,6 @@
 # solar_system
 
-![Image]()
-![Image]()
-![Image]()
-
+![Image](https://github.com/user-attachments/assets/91589298-a458-4769-9194-ba00bda3ff5d)
 [Demo Project](https://hosseinsaedmohkam.github.io/solar_system/)
 
 - Developed by Hossein saedmohkam
